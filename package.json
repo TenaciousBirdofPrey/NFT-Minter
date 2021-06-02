@@ -1,0 +1,19 @@
+{
+  "name": "my-nft",
+  "version": "1.0.0",
+  "description": "nft for git hub portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}

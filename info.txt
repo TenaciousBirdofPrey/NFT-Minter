@@ -1,0 +1,5 @@
+C:\Users\User1\Desktop\github_portfolio\my-nft>npx hardhat run scripts/deploy.js --network ropsten
+Contract deployed to address: 0xE83fe2085740E5f7c1972571260FDb767b508a89
+
+https://dashboard.alchemyapi.io/mempool/eth-ropsten/tx/0x7dbbe475f90de3046ccae0b325a7c7a29b4055ca022e16207ab596a448c065ea
+
